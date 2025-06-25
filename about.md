@@ -17,4 +17,4 @@ All views are my own.
 
 ### Contact me
 
-#[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:email@domain.com)
