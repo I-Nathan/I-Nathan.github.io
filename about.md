@@ -11,10 +11,6 @@ Outside of work, I write code (mostly in Python), build the occasional side proj
 
 All views are my own.
 
-### More Information
-
-#A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[i-nathan@outlook.com](mailto:ishannathan0@outlook.com)
