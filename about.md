@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 _All things Physics, Travel, Finance and Entrepreneurship._
