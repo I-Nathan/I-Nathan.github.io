@@ -14,4 +14,4 @@ Outside of work, I write code (mostly in Python), build the occasional side proj
 All views are my own.
 
 ### Contact me  
-[i-nathan@outlook.com](mailto:ishannathan0@outlook.com)
+[i-nathan@outlook.com](mailto:i-nathan@outlook.com)
