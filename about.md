@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: Home
 ---
 
 _All things Physics, Travel, Finance and Entrepreneurship._
-
-## About
 
 I studied maths and physics at university and now work in finance.
 
